@@ -1,4 +1,4 @@
-# API que entrega informacioon acerca de politicos de Chile
+# API que entrega información acerca de politicos de Chile
 
 Escrita en NodeJS con el framework Express.js
 
